@@ -33,6 +33,7 @@ public class Ventana extends JFrame {
         add(labelApellido, BorderLayout.WEST);
         add(labelEdad, BorderLayout.SOUTH);
         add(labelFechaNac, BorderLayout.EAST);
+        add(labelCI, BorderLayout.AFTER_LAST_LINE);
 
 
 
